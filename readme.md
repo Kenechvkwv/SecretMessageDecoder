@@ -9,8 +9,9 @@ The script fetches the document, extracts character positions, rebuilds them int
 The Google Doc is expected to contain a table with:
 
 X Coordinate Character Y Coordinate
-0 H 0
-1 I 0
+
+- 0 H 0
+- 1 I 0
 
 The script:
 
@@ -21,9 +22,9 @@ The script:
 
 ## Requirements
 
-Node.js 18 or later
-npm
-npm install cheerio
+- Node.js 18 or later
+- npm
+- npm install cheerio
 
 # Run the script
 
