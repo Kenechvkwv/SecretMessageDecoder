@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node secret-message.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  },
+  "type": "module"
+}
